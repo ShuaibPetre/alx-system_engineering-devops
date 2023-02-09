@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode a+X
+chmode -R a+X
