@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir "$PWD/action"
+alias "PATH=mkdir $PATH/action
