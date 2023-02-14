@@ -1,0 +1,2 @@
+#!/bin/bash
+a=cat TRUEKNOWLEDGE | $((128+a))
