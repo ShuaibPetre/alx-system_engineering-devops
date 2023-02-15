@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lrt | head -n 11 | tail
+ls -lrt | head
